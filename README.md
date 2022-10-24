@@ -5,7 +5,7 @@
 - [Status](#status)
 - [Connect](#connect)
 
-![animated GIF of the accordion in action](./accodion-demo.gif)
+![animated GIF of the accordion in action](./accordion-demo.gif)
 
 ## About
 This FAQ webpage is a demonstration of an according using HTML, CSS, and JavaScript. This project was built as part of the [JavaScript DOM Manipulation – Full Course for Beginners](https://youtu.be/5fb2aPlgoys) taught by CodeLab and hosted by freeCodeCamp. This project was created as part of my participation in the [#100DaysOfCode Challenge](https://github.com/ananfito/100-days-of-code).
